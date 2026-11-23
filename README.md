@@ -1,4 +1,4 @@
-### Hi, I'm John Andrés Romero 👋
+### Hi, I'm John Andrés Romero
 
 - Python and SQL developer focused on automation and data (pipelines, reports, RPA), and a junior full-stack developer with Next.js, React and TypeScript.
 - Based in Bogotá, Colombia; open to remote or hybrid roles.
